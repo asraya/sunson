@@ -3,6 +3,7 @@
 ''
 # Frontend (vuejs-frontend) 
 How to run:
+
 cd vuejs-frontend
 
 Install dependency
@@ -17,6 +18,7 @@ Server run in http://localhost:8080
 
 # Backend (flask-backend)
 How to run:
+
 cd flask-backend
 
 Installing virtual environment
