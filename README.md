@@ -18,6 +18,7 @@ Server run in http://localhost:8080
 # Backend (flask-backend)
 How to run:
 cd flask-backend
+
 Installing virtual environment
 ```sh
 $ virtualenv -p python3 venv
